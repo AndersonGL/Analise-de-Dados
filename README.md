@@ -11,7 +11,7 @@ Uma breve descrição sobre meus estudos e projetos:
 * **Numpy - Biblioteca Python**
 * **Matplotlib - Visualização Gráfica de dados**
 * **SQL - Banco de Dados**
-* **Estátisticas Descritiva**
+* **Estátisticas Descritiva, Diagnóstica, Preditiva, Prescritiva**
 * **Excel**
 * **Power BI**
 
