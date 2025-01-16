@@ -6,7 +6,7 @@
 Uma breve descrição sobre meus estudos e projetos: 
 
 
-* **Linguaguem Python**
+* **Linguaguem Python (Atualizado  Janeiro 2025)**
 * **Pandas - Biblioteca Python**
 * **Numpy - Biblioteca Python**
 * **Matplotlib - Visualização Gráfica de dados**
