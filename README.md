@@ -47,7 +47,7 @@ Estou em transição de carreira.
 
 
 ## 🛠 Hard Skills
-**Pynthon, Django, Flash, Pandas , Matplotlib, Numpay Excel, PowerBi, Estatística ,MSQL**.
+**Pynthon, Django, Flash, Pandas , Matplotlib, Numpay Excel, PowerBi, Estatística e MSQL**.
 
 ## 🤝 Soft Skills
 
