@@ -47,13 +47,11 @@ Estou em transição de carreira.
 
 
 ## 🛠 Hard Skills
-**Desenvolvimento Front-end**, Conhecimento em **HTML, CSS, JavaScript, React e Node.js** no lado do servidor.
+**Pynthon, Django, Flash, Pandas , Matplotlib, Numpay Excel, PowerBi, Estatística ,MSQL**.
 
-**Desenvolvimento Back-End**, Conhecimento em **PHP e o Framework Laravel, Api Rest, Postman e MSQL**.
 ## 🤝 Soft Skills
 
 * **Comunicação**
-* **Liderança**
 * **Proatividade**
 * **Trabalho em equipe**
 * **Resiliência.**
